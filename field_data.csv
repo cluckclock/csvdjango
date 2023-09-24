@@ -1,0 +1,185 @@
+﻿No,Well_ID,NWC_Well_ID,Field_Visit,Area,Area_validated,matched,Entity,LAT_coord,LONG_coord,WS_Active/Operating,WS_Stand-by,WS_Inactive,Fm_Mechanical,Fm_Electromagnetical,Fm_Type,FR_m3/hour,FD_mm,DPD_inches,Vibration,PF_Pipe_Position,upstream_cm,upstream_inches,downstream_cm,downstream_inches,Sketch_check,Coordinates_check,Photos_check,Notes_check
+1,well-1-1NW-464,1NW- 464,12/2/2022,Skaka,Skaka,MATCH,,29.854232,40.210753,P,,,P,,-,120,100,4,very low,horizontal,150,59,106,42,√,√,√,√
+2,well-2-JF-SK-0011,JF-SK-0011,12/2/2022,Skaka,Skaka,MATCH,,29.854446,40.210342,P,,,P,,-,-,100,4,very low,horizontal,100,39,100,39,√,√,√,√
+3,well-3,no lable,12/2/2022,Skaka,Skaka,MATCH,,29.854024,40.210918,,,P,,,-,-,-,-,-,-,-,-,-,-,√,√,√,√
+4,well-4-JF-SK-009 ,JF-SK-009 ,12/2/2022,Skaka,Skaka,MATCH,,29.877256,40.221818,P,,,,P,ABB,99.55,200,8,very low,horizontal,60,24,0,0,√,√,√,√
+5,well-5-JF-SK-010 ,JF-SK-010 ,12/2/2022,Skaka,Skaka,MATCH,,29.87594,40.22273,P,,,P,,-,90,200,8,very low,horizontal,95,37,35,14,√,√,√,√
+6,well-6-JF-SK-008 ,JF-SK-008 ,12/2/2022,Skaka,Skaka,MATCH,,29.88268,40.209245,P,,,P,,-,-,100,4,very low,horizontal,145,57,0,0,√,√,√,√
+7,well-7-1 NW-276 ,1 NW-276 ,12/2/2022,Skaka,Skaka,MATCH,,29.882498,40.20752,P,,,P,,-,90,125,5,very low,horizontal,30,12,45,18,√,√,√,√
+8,well -8-JF-SK-006 ,JF-SK-006 ,12/2/2022,Skaka,Skaka,MATCH,,29.908438,40.190908,P,,,P,,-,120,150,6,very low,horizontal,55,22,0,0,√,√,√,√
+9,well -9-JF-SK-007,JF-SK-007,12/2/2022,Skaka,Skaka,MATCH,,29.911669,40.187556,P,,,P,,-,108,150,6,very low,horizontal,100,39,105,41,√,√,√,√
+10,well -10-JF-SK-005,JF-SK-005,12/2/2022,Skaka,Skaka,MATCH,,29.908288,40.188625,P,,,P,,-,120,150,6,very low,horizontal,155,61,155,61,√,√,√,√
+11,well -11-JF-SK-004 ,JF-SK-004 ,12/2/2022,Skaka,Skaka,MATCH,,29.937732,40.165729,P,,,P,,-,309,200,8,very low,horizontal,0,0,115,45,√,√,√,√
+12,well -12-JU-2018-3,JU-2018-3,12/2/2022,Skaka,Skaka,MATCH,,29.937928,40.165821,,,P,,,-,-,-,-,-,-,-,-,-,-,√,√,√,√
+13,well-1-JF-SK-002,JF-SK-002,12/3/2022,Skaka,Skaka,MATCH,,29.959314,40.178106,P,,,P,,-,135,200,8,very low,horizontal,155,61,100,39,√,√,√,√
+14,well-2-JF-SK-001  (new) ,JF-SK-001  (new),12/3/2022,Skaka,Skaka,MATCH,,29.964642,40.18072,P,,,,P,ABB,207.94,200,8,very low,horizontal,100,39,100,39,√,√,√,√
+15,well-3-JF-SK-001 (old) ,JF-SK-001 (old) ,12/3/2022,Skaka,Skaka,MATCH,,29.963325,40.180875,P,,,P,,-,,200,8,very low,horizontal,25,10,25,10,√,√,√,√
+16,well-4-1-NW-338,1-NW-338,12/3/2022,Skaka,Skaka,MATCH,,29.975717,40.093139,P,,,P,,-,48,150,6,very low,horizontal,150,59,80,31,√,√,√,√
+17,well-5-JF-SK-003 ,JF-SK-003 ,12/3/2022,Skaka,Skaka,MATCH,,29.995047,40.198291,P,,,P,,-,120,200,8,very low,horizontal,100,39,55,22,√,√,√,√
+18,well-6-,no lable,12/3/2022,Skaka,Skaka,MATCH,,30.007213,40.194927,P,,,,P,ABB,,200,8,,horizontal,100,39,75,30,√,√,√,√
+19,well-7-JF-SK-0014 (1),JF-SK-0014 (1),12/3/2022,Skaka,Skaka,MATCH,,29.988394,40.241772,P,,,P,,-,,150,6,very low,horizontal,75,30,100,39,√,√,√,√
+20,well-8-JF-SK-0014 (2),JF-SK-0014 (2),12/3/2022,Skaka,Skaka,MATCH,,29.988489,40.241487,P,,,P,,-,30,150,6,very low,horizontal,20,8,20,8,√,√,√,√
+21,well-9-JF-SK-0015,JF-SK-0015,12/3/2022,Skaka,Skaka,MATCH,,29.98831,40.244402,P,,,P,,-,,150,6,very low,horizontal,0,0,0,0,√,√,√,√
+22,well-10-JF-SK-0017 (1-NW-466),1-NW-466,12/3/2022,Skaka,Skaka,MATCH,,30.017386,40.23606,P,,,P,,-,120,150,6,very low,horizontal,100,39,100,39,√,√,√,√
+23,well-11-JF-SK-0017 (1-NW-274),1-NW-274,12/3/2022,Skaka,Skaka,MATCH,,30.017368,40.235886,,,P,,,-,-,-,-,-,-,-,-,-,-,√,√,√,√
+24,well-12- 1-NW-274,1-NW-274,12/3/2022,Skaka,Skaka,MATCH,,30.060687,40.31578,P,,,P,,-,,150,6,very low,horizontal,100,39,100,39,√,√,√,√
+25,well-13- Rafiaa station,Rafiaa station,12/3/2022,Skaka,Skaka,MATCH,,30.06283,40.314419,P,,,P,,-,,150,6,very low,horizontal,0,0,0,0,√,√,√,√
+26,well-14- Hadban station,Hadban station,12/3/2022,Skaka,Skaka,MATCH,,30.078597,40.315769,P,,,P,,-,,150,6,-,horizontal,50,20,0,0,√,√,√,√
+27,well-15- Suwayer station,Suwayer station,12/3/2022,Skaka,Skaka,MATCH,,30.093966,40.389692,P,,,P,,-,120,150,6,very low,horizontal,135,53,0,0,√,√,√,√
+28,well-16- Suwayer station,Suwayer station,12/3/2022,Skaka,Skaka,MATCH,,30.122063,40.389274,P,,,P,,-,-,-,-,-,horizontal,-,-,-,-,Not Access,√,√,√
+29,well-17- Suwayer station,Suwayer station,12/3/2022,Skaka,Skaka,MATCH,,30.125692,40.389157,P,,,P,,-,,200,8,-,horizontal,35,14,0,0,Not Access,√,√,√
+30,well-18- Nasefa station,Nasefa station,12/3/2022,Skaka,Skaka,MATCH,,30.155488,40.329218,P,,,P,,-,,125,5,-,horizontal,0,0,0,0,√,√,√,√
+31,well-19- Nasefa station,Nasefa station,12/3/2022,Skaka,Skaka,MATCH,,30.155611,40.329269,,,P,,,-,,,,-,,-,-,-,-,New,√,√,√
+32,well-20- Zalom station,Zalom station,12/3/2022,Skaka,Skaka,MATCH,,30.173823,40.295921,P,,,P,,-,,100,4,-,horizontal,100,39,45,18,√,√,√,√
+33,well-1- Al Nazaem station,Al Nazaem station,12/4/2022,Skaka,Skaka,MATCH,,30.142539,40.315175,P,,,P,,-,,100,4,-,horizontal,0,0,0,0,√,√,√,√
+34,well-2-shuwaityh station ,shuwaityh station ,12/4/2022,Skaka,Skaka,MATCH,,30.31058,40.195505,P,,,P,,-,,-,-,-,horizontal,0,0,0,0,Not Access,√,√,√
+35,well-3-Talat Ammar station 1,Talat Ammar station 1,12/4/2022,Skaka,Skaka,MATCH,,30.650186,40.561009,P,,,P,,-,,150,6,-,horizontal,20,8,105,41,√,√,√,√
+36,well-4-Talat Ammar station 2,Talat Ammar station 2,12/4/2022,Skaka,Skaka,MATCH,,30.655719,40.560473,P,,,P,,-,,150,6,very low,horizontal,0,0,0,0,√,√,√,√
+37,well-5- no label,no label,12/4/2022,Arar,Arar,MATCH,,30.961478,41.011328,P,,,,,-,,-,6,very low,-,-,-,-,-,-,√,√,√
+38,well-6-Mishreef station,Mishreef station,12/4/2022,Arar,Arar,MATCH,,30.965356,40.997889,P,,,,P,ABB,66,100,4,very low,horizontal,100,39,30,12,√,√,√,√
+39,well-7-(NB-AR-002-W-WTFS),(NB-AR-002-W-WTFS),12/4/2022,Arar,Arar,MATCH,,30.980564,40.96481,P,,,,P,SGM,,150,6,-,vertical,130,51,-,-,√,√,√,√
+40,well-8-(NB-AR-003-W-WTFS),(NB-AR-003-W-WTFS),12/4/2022,Arar,Arar,MATCH,,30.981743,40.955652,P,,,,,-,-,-,6,very low,-,-,-,-,-,√,√,√,√
+41,well-9-(1-NW-310),1-NW-310,12/4/2022,Arar,Arar,MATCH,,30.996375,40.91266,P,,,,P,ABB,137.85,200,8,very low,horizontal,365,144,50,20,√,√,√,√
+42,well-10-(1-NW-268),1-NW-268,12/4/2022,Arar,Arar,MATCH,,30.989346,40.906039,P,,,,P,ABB,170.51,200,8,very low,horizontal,300,118,125,49,√,√,√,√
+43,well-11-(1-NW-302),1-NW-302,12/4/2022,Arar,Arar,MATCH,,30.991906,40.895111,P,,,,P,ABB,62.1,200,8,very low,horizontal,300,118,305,120,√,√,√,√
+44,well-12-(1-NW-303),1-NW-303,12/4/2022,Arar,Arar,MATCH,,30.983341,40.897192,,,P,,,-,-,-,-,-,-,-,-,-,-,Under Maintenance,√,√,√
+45,well-13-(1-NW-305),1-NW-305,12/4/2022,Arar,Arar,MATCH,,30.980857,40.902856,P,,,,P,ABB,-,200,8,very low,horizontal,300,118,155,61,√,√,√,√
+46,well-14-(1-NW-304),1-NW-304,12/4/2022,Arar,Arar,MATCH,,30.97271,40.899822,P,,,,P,ABB,103.5,200,8,very low,horizontal,95,37,240,94,√,√,√,√
+47,well-15-(1-NW-306),1-NW-306,12/4/2022,Arar,Arar,MATCH,,30.965082,40.896317,,P,,,P,ABB,,200,8,-,horizontal,,0,,0,,√,√,√
+48,well-16-(1-NW-331),1-NW-331,12/4/2022,Arar,Arar,MATCH,,30.962418,40.884629,P,,,,P,ABB,112.16,200,8,very low,horizontal,180,71,200,79,√,√,√,√
+49,well-17-(1-NW-332),1-NW-332,12/4/2022,Arar,Arar,MATCH,,30.967184,40.875957,,P,,,P,ABB,-,200,8,-,horizontal,-,-,-,-,,√,√,√
+50,well-18-(1-NW-263),1-NW-263,12/4/2022,Arar,Arar,MATCH,,30.967421,40.906164,,P,,,,-,-,-,8,-,horizontal,-,-,-,-,,√,√,√
+51,well 1-1,1,12/5/2022,Arar,Arar,MATCH,,30.982483,40.927594,,P,,,,-,-,-,-,-,-,-,-,-,-,√,√,√,√
+52,well 2-2,2,12/5/2022,Arar,Arar,MATCH,,30.974824,40.923133,,P,,,,-,-,-,-,-,-,-,-,-,-,√,√,√,√
+53,well 3-3,3,12/5/2022,Arar,Arar,MATCH,,30.961793,40.923045,,P,,,,-,-,-,-,-,-,-,-,-,-,√,√,√,√
+54,well 4-4,4,12/5/2022,Arar,Arar,MATCH,,30.952655,40.923098,,P,,,,-,-,-,-,-,-,-,-,-,-,√,√,√,√
+55,well 5-5,5,12/5/2022,Arar,Arar,MATCH,,30.95059,40.913239,,P,,,,-,-,-,-,-,-,-,-,-,-,√,√,√,√
+56,well 6-6,6,12/5/2022,Arar,Arar,MATCH,,30.968353,40.915801,,P,,,,-,-,-,-,-,-,-,-,-,-,√,√,√,√
+57,Well-7-(1-NW-371),1-NW-371,12/5/2022,Arar,Arar,MATCH,,30.953711,40.887639,P,,,,,-,-,150,6,-,horizontal,35,14,0,0,√,√,√,√
+58,Well-8-(1-NW-370),1-NW-370,12/5/2022,Arar,Arar,MATCH,,30.946189,40.878157,,P,,,,-,-,-,-,-,-,-,-,-,-,√,√,√,√
+59,Well-9-(1-NW-369),1-NW369,12/5/2022,Arar,Arar,MATCH,,30.936391,40.874955,,P,,,,-,-,-,-,-,-,-,-,-,-,√,√,√,√
+60,Well-10-(1-NW-368),1-NW-368,12/5/2022,Arar,Arar,MATCH,,30.953711,40.887639,,P,,,,-,-,-,-,-,-,-,-,-,-,√,√,√,√
+61,well-11-(1-NW-367),1-NW-367,12/5/2022,Arar,Arar,MATCH,,30.933959,40.886975,,P,,,,-,-,-,-,-,-,-,-,-,-,√,√,√,√
+62,well-12-(1-NW-366),1-NW-366,12/5/2022,Arar,Arar,MATCH,,30.939565,40.898085,,P,,,,-,-,-,-,-,-,-,-,-,-,√,√,√,√
+63,well-13-(1-NW-365),1-NW365,12/5/2022,Arar,Arar,MATCH,,30.946678,40.904454,,P,,,,-,-,-,-,-,-,-,-,-,-,√,√,√,√
+64,well-14-(1-NW-364),1-NW364,12/5/2022,Arar,Arar,MATCH,,30.958985,40.902718,,P,,,,-,-,-,-,-,-,-,-,-,-,√,√,√,√
+65,well-1- NWC,NWC,12/6/2022,Arar,Arar,MATCH,,30.97762,41.019304,P,,,P,,-,-,100,4,-,horizontal,0,0,160,63,√,√,√,√
+66,well-2-wadi well,wadi well,12/6/2022,Arar,Arar,MATCH,,30.975033,41.018403,,P,,,P,ABB,,150,6,-,horizontal,75,30,55,22,√,√,√,√
+67,well-3- East masaaed well,East masaaed well,12/6/2022,Arar,Arar,MATCH,,30.973025,41.019688,P,,,,P,ABB,30.5,100,4,very low,horizontal,45,18,60,24,√,√,√,√
+68,well-4-west masaaed well,west masaaed well,12/6/2022,Arar,Arar,MATCH,,30.977034,41.004935,P,,,,P,ABB,,150,6,-,horizontal,130,51,105,41,√,√,√,√
+69,well-5- zahra well,zahra well,12/6/2022,Arar,Arar,MATCH,,30.952243,41.011478,P,,,,,-,-,150,4,-,-,-,-,-,-,√,√,√,√
+70,well-6-strategic station,strategic station,12/6/2022,Arar,Arar,MATCH,,30.928527,41.01163,,,P,,,-,-,-,-,-,-,-,-,-,-,New,√,√,√
+71,well-7-sakaka road well,sakaka road well,12/6/2022,Arar,Arar,MATCH,,30.944474,41.015618,,P,,,,-,-,-,-,,-,-,-,-,-,Under Maintenance,√,√,√
+72,well-8-(1-NW-480),1-NW-480,12/6/2022,Arar,Arar,MATCH,,30.972733,41.038842,P,,,P,,-,144,150,6,very low,horizontal,265,104,165,65,√,√,√,√
+73,well-9-Nasria station,Nasria station,12/6/2022,Arar,Arar,MATCH,,30.985075,41.053641,P,,,P,,-,,150,6,,horizontal,0,0,0,0,√,√,√,√
+74,well-10-Al Rabwa well,Al Rabwa well,12/6/2022,Arar,Arar,MATCH,,30.992343,41.045397,P,,,P,,-,90,150,6,very low,horizontal,150,59,125,49,√,√,√,√
+75,well-11-(NB-AR-008-W-WTFS),NB-AR-008-W-WTFS,12/6/2022,Arar,Arar,MATCH,,31.015936,41.071123,P,,,,,-,-,,4,very low,-,-,-,-,-,√,√,√,√
+76,well-12-(1-NW-485),1-NW-485,12/6/2022,Arar,Arar,MATCH,,31.028588,41.098095,P,,,P,,-,-,150,4,-,horizontal,0,0,0,0,√,√,√,√
+77,well-13-Fisalia wadi well,Fisalia wadi well,12/6/2022,Arar,Arar,MATCH,,30.985511,41.03157,P,,,,P,ABB,45.45,100,4,very low,horizontal,70,28,150,59,√,√,√,√
+78,well-14-(1-NW-495),1-NW-495,12/6/2022,Arar,Arar,MATCH,,30.984737,41.032951,,,P,,,-,-,-,-,-,-,-,-,-,-,New,√,√,√
+79,well-15- Fisalia station,Fisalia station,12/6/2022,Arar,Arar,MATCH,,30.981492,41.040114,P,,,P,,-,-,100,4,,horizontal,0,0,0,0,√,√,√,√
+80,well-16- Azizaia station-1,Azizaia station-1,12/6/2022,Arar,Arar,MATCH,,30.994941,41.0121643,P,,,,P,ABB,59.8,200,8,very low,horizontal,200,79,30,12,√,√,√,√
+81,well-17-Azizaia station-2,Azizaia station-2,12/6/2022,Arar,Arar,MATCH,,30.994788,41.011754,,,P,,,-,-,-,-,-,-,-,-,-,-,Under Maintenance,√,√,√
+82,well-18-Al khaldia station,Al khaldia station,12/6/2022,Arar,Arar,MATCH,,30.988951,41.01018,P,,,P,,-,-,100,4,very low,horizontal,0,0,50,20,√,√,√,√
+83,well-1- (1-NW-447),1-NW-447,12/7/2022,Arar,Arar,MATCH,,30.999392,41.149824,P,,,P,,-,-,150,6,very low,horizontal,30,12,-,-,√,√,√,√
+84,well-2- Ibn Sanar station,Ibn Sanar station,12/7/2022,Arar,Al Uwayqilah,NO match,,30.456699,41.998725,P,,,,,-,-,-,-,very low,-,-,-,-,-,√,√,√,√
+85,well-3- Muqeaila station,Muqeaila station,12/7/2022,Arar,Al Uwayqilah,NO match,,30.362362,42.227606,P,,,P,,-,46.95,100,4,very low,horizontal,60,24,60,24,√,√,√,√
+86,well-4- Southern well,Southern well,12/7/2022,Arar,Al Uwayqilah,NO match,,30.355284,42.22347,P,,,,P,SIEMENS,57.06,150,6,very low,horizontal,210,83,100,39,√,√,√,√
+87,well-5- Eastern well (1),Eastern well (1),12/7/2022,Arar,Al Uwayqilah,NO match,,30.353706,42.240506,P,,,,P,SIEMENS,67.97,100,4,very low,horizontal,0,0,0,0,√,√,√,√
+88,well-6- Eastern well (2),Eastern well (2),12/7/2022,Arar,Al Uwayqilah,NO match,,30.360494,42.248087,P,,,,P,SIEMENS,64.76,100,4,very low,horizontal,45,18,45,18,√,√,√,√
+89,well-7- Northern well,Northern well,12/7/2022,Arar,Al Uwayqilah,NO match,,30.373668,42.238301,P,,,P,,-,45,100,4,very low,horizontal,0,0,0,0,√,√,√,√
+90,well-8- Northern well (1),Northern well (1),12/7/2022,Arar,Al Uwayqilah,NO match,,30.40645,42.259167,,,P,,,-,-,-,-,-,-,-,-,-,-,New,√,√,√
+91,well-9- Northern well (3),Northern well (3),12/7/2022,Arar,Al Uwayqilah,NO match,,30.414238,42.264427,,,P,,,-,-,-,-,-,-,-,-,-,-,New,√,√,√
+92,well-10- Northern well (2),Northern well (2),12/7/2022,Arar,Al Uwayqilah,NO match,,30.411115,42.250247,,,P,,,-,-,-,-,-,-,-,-,-,-,New,√,√,√
+93,well-11- Sheep El hamd,Sheep El hamd,12/7/2022,Arar,Al Uwayqilah,NO match,,30.370791,42.21516,P,,,P,,-,51,100,4,very low,horizontal,0,0,0,0,√,√,√,√
+94,well-12- El kaseb station,El kaseb station,12/7/2022,Arar,Al Uwayqilah,NO match,,30.500211,41.942197,P,,,P,,-,-,100,4,-,horizontal,75,30,75,30,√,√,√,√
+95,well-13- Airport well, Airport well,12/7/2022,Arar,Arar,MATCH,,30.927657,41.071331,P,,,,,-,-,-,4,very low,-,-,-,-,-,√,√,√,√
+96,Well-1 - (1-NW-431),1-NW-431,12/8/2022,Dawmet Al jandal,Skaka,NO match,,29.794766,40.425381,P,,,,P,Endress + Hauser,-,150,6,very low,horizontal,100,39,210,83,√,√,√,√
+97,Well-2 - khawa station,khawa station,12/8/2022,Dawmet Al jandal,Skaka,NO match,,29.80092,40.44183,P,,,P,,-,-,150,6,-,horizontal,0,0,0,0,√,√,√,√
+98,Well-3-JF-DO-001 (1),JF-DO-001 (1),12/8/2022,Dawmet Al jandal,Dawmet Al jandal,MATCH,,29.814795,39.854596,P,,,P,,-,-,100,4,-,horizontal,100,39,100,39,√,√,√,√
+99,Well-4-JF-DO-001 (2),JF-DO-001 (2),12/8/2022,Dawmet Al jandal,Dawmet Al jandal,MATCH,,29.815001,39.854506,,P,,P,,-,-,150,6,-,horizontal,-,-,100,39,√,√,√,√
+100,Well-5-JF-DO-002 (1),JF-DO-002 (1),12/8/2022,Dawmet Al jandal,Dawmet Al jandal,MATCH,,29.81618,39.852272,P,,,,P,Endress + Hauser,-,150,6,very low,horizontal,100,39,100,39,√,√,√,√
+101,Well-6-JF-DO-002 (2),JF-DO-002 (2),12/8/2022,Dawmet Al jandal,Dawmet Al jandal,MATCH,,29.815841,39.851475,P,,,P,,-,138,150,6,very low,horizontal,0,0,0,0,√,√,√,√
+102,Well-7-JF-DO-006,JF-DO-006,12/8/2022,Dawmet Al jandal,Dawmet Al jandal,MATCH,,29.816365,39.821848,P,,,,P,Endress + Hauser,-,150,6,very low,horizontal,50,20,100,39,√,√,√,√
+103,Well-8-JF-DO-005,JF-DO-005,12/8/2022,Dawmet Al jandal,Dawmet Al jandal,MATCH,,29.850546,39.846314,P,,,,P,Endress + Hauser,-,150,6,-,horizontal,100,39,100,39,√,√,√,√
+104,Well-9-JU-2018-7,JU-2018-7,12/8/2022,Dawmet Al jandal,Dawmet Al jandal,MATCH,,29.851193,39.831007,P,,,,P,Endress + Hauser,-,150,6,-,horizontal,100,39,100,39,√,√,√,√
+105,Well-10-JF-DO-004 (1),JF-DO-004 (1),12/8/2022,Dawmet Al jandal,Dawmet Al jandal,MATCH,,29.832481,39.870423,P,,,,P,Endress + Hauser,-,150,6,very low,horizontal,100,39,100,39,√,√,√,√
+106,Well-11-JF-DO-004 (2),JF-DO-004 (2),12/8/2022,Dawmet Al jandal,Dawmet Al jandal,MATCH,,29.832316,39.870118,P,,,P,,-,-,100,4,-,horizontal,40,16,65,26,√,√,√,√
+107,Well-12-JF-DO-003,JF-DO-003,12/8/2022,Dawmet Al jandal,Dawmet Al jandal,MATCH,,29.80895,39.865994,P,,,P,,-,-,150,6,-,horizontal,100,39,100,39,√,√,√,√
+108,Well-1-Radiafa station 1,Radiafa station 1,12/9/2022,Dawmet Al jandal,Dawmet Al jandal,MATCH,,29.805713,39.688026,P,,,P,,-,-,150,6,-,horizontal,0,0,225,89,√,√,√,√
+109,Well-2- Radiafa station 2,Radiafa station 2,12/9/2022,Dawmet Al jandal,Dawmet Al jandal,MATCH,,29.807967,39.70237,P,,,P,,-,-,100,4,-,horizontal,45,18,140,55,√,√,√,√
+110,Well-3- Radiafa station 3,Radiafa station 3,12/9/2022,Dawmet Al jandal,Dawmet Al jandal,MATCH,,29.804456,39.667928,P,,,,P,Endress + Hauser,-,200,8,-,horizontal,100,39,100,39,√,√,√,√
+111,Well-4-Asfan Station 1,Asfan Station 1,12/9/2022,Dawmet Al jandal,Dawmet Al jandal,MATCH,,29.653839,39.670573,P,,,,P,ABB,-,150,6,-,horizontal,50,20,0,0,√,√,√,√
+112,Well-5-Asfan Station 2,Asfan Station 2,12/9/2022,Dawmet Al jandal,Dawmet Al jandal,MATCH,,29.656634,39.671504,P,,,P,,,-,100,4,-,horizontal,0,0,0,0,√,√,√,√
+113,Well-6-Al Adareaa Station 1,Al Adareaa Station 1,12/9/2022,Dawmet Al jandal,Dawmet Al jandal,MATCH,,29.828261,39.579902,P,,,,P,ABB,-,150,6,-,horizontal,0,0,100,39,√,√,√,√
+114,Well-7-Al Adareaa Station 2 (1-NW-328),1-NW-328,12/9/2022,Dawmet Al jandal,Dawmet Al jandal,MATCH,,29.831302,39.571282,P,,,P,,-,-,150,6,-,horizontal,100,39,75,30,√,√,√,√
+115,Well-8-Abo Agram new (1-NW-326),1-NW-326,12/9/2022,Dawmet Al jandal,Dawmet Al jandal,MATCH,,29.899276,39.296498,P,,,P,,-,-,150,6,-,horizontal,0,0,100,39,√,√,√,√
+116,Well-9-Abo Agram old,Abo Agram old,12/9/2022,Dawmet Al jandal,Dawmet Al jandal,MATCH,,29.888519,39.313233,P,,,P,,-,-,150,6,-,horizontal,100,39,0,0,√,√,√,√
+117,Well-10-Myagooa old,Myagooa old,12/9/2022,Dawmet Al jandal,Tabarjal,NO match,,29.820822,38.915721,P,,,P,,-,-,150,6,-,horizontal,0,0,0,0,√,√,√,√
+118,Well-11-Myagooa new,Myagooa new,12/9/2022,Dawmet Al jandal,Tabarjal,NO match,,29.816362,38.927849,P,,,P,,-,-,150,6,-,horizontal,0,0,0,0,√,√,√,√
+119,Well-1-(1-NW-406),1-NW-406,12/10/2022,Tabarjal,Tabarjal,MATCH,,30.4827,38.206423,P,,,,P,ABB,43.32,150,6,very low,horizontal,100,39,0,0,√,√,√,√
+120,Well-2-(1-NW-404),1-NW-404,12/10/2022,Tabarjal,Tabarjal,MATCH,,30.475247,38.259216,P,,,,P,ABB,,100,4,-,horizontal,100,39,0,0,√,√,√,√
+121,Well-3- East Tabarjal Station,East Tabarjal Station,12/10/2022,Tabarjal,Tabarjal,MATCH,,30.493257,38.262236,P,,,,P,ABB,,150,6,-,horizontal,0,0,0,0,√,√,√,√
+122,Well-4-Station C (new well),Station C (new well),12/10/2022,Tabarjal,Tabarjal,MATCH,,30.505078,38.209858,P,,,P,,-,-,100,4,-,horizontal,65,26,0,0,√,√,√,√
+123,Well-5-Station C (old well),Station C (old well),12/10/2022,Tabarjal,Tabarjal,MATCH,,30.505197,38.209354,P,,,P,,-,-,150,6,-,horizontal,180,71,30,12,√,√,√,√
+124,Well-6-Station D,Station D,12/10/2022,Tabarjal,Tabarjal,MATCH,,30.496658,38.199647,P,,,P,,-,-,150,6,-,horizontal,45,18,25,10,√,√,√,√
+125,Well-7-JU-2018-17,JU-2018-17,12/10/2022,Tabarjal,Tabarjal,MATCH,,30.517719,38.195785,P,,,,P,Endress + Hauser,,150,6,-,horizontal,100,39,100,39,√,√,√,√
+126,Well-8- Al Mafied Satation,Al Mafied Satation,12/10/2022,Tabarjal,Tabarjal,MATCH,,30.530258,38.221892,P,,,P,,-,-,100,4,-,horizontal,100,39,0,0,√,√,√,√
+127,Well-9-(1-NW-462),1-NW-462,12/10/2022,Tabarjal,Tabarjal,MATCH,,30.585349,38.116838,P,,,,P,ABB,,150,6,-,horizontal,100,39,100,39,√,√,√,√
+128,Well-10-JU-2018-16,JU-2018-16,12/10/2022,Tabarjal,Tabarjal,MATCH,,30.576636,38.084882,,,P,,,-,-,-,-,-,-,-,-,-,-,New,√,√,√
+129,Well-11-West Faied Station,West Faied Station,12/10/2022,Tabarjal,Tabarjal,MATCH,,30.607306,38.091268,P,,,,P,Endress + Hauser,,150,6,-,horizontal,100,39,100,39,√,√,√,√
+130,Well-12-1-NW-427,1-NW-427,12/10/2022,Tabarjal,Tabarjal,MATCH,,30.638706,38.081054,P,,,,P,Endress + Hauser,,150,6,,horizontal,100,39,100,39,√,√,√,√
+131,Well-13-JU-2018-15,JU-2018-15,12/10/2022,Tabarjal,Tabarjal,MATCH,,30.642988,38.038789,,,P,,,-,-,-,-,-,-,,0,,0,New,√,√,√
+132,Well-14-JF-ES-001,JF-ES-001,12/10/2022,Tabarjal,Al Qurayyat,NO match,,30.715033,37.975989,P,,,P,,-,-,125,5,-,horizontal,50,20,0,0,√,√,√,√
+133,Well-15-(1-NW-243),1-NW-243,12/10/2022,Tabarjal,Al Qurayyat,NO match,,31.080057,37.627904,,P,,,,-,-,-,-,-,horizontal,-,-,-,-,√,√,√,√
+134,Well-16-173,173,12/10/2022,Tabarjal,Al Qurayyat,NO match,,31.149681,37.625813,P,,,P,,-,-,80,3,-,horizontal,75,30,90,35,√,√,√,√
+135,Well-17-165,165,12/10/2022,Tabarjal,Al Qurayyat,NO match,,31.154087,37.636003,P,,,P,,-,-,100,4,-,horizontal,130,51,15,6,√,√,√,√
+136,Well-18-168,168,12/10/2022,Tabarjal,Al Qurayyat,NO match,,31.161302,37.628114,P,,,P,,-,-,80,3,-,horizontal,100,39,-,-,√,√,√,√
+137,Well-19-169,169,12/10/2022,Tabarjal,Al Qurayyat,NO match,,31.163807,37.624167,P,,,P,,-,-,100,4,-,horizontal,130,51,15,6,√,√,√,√
+138,Well-20-170,170,12/10/2022,Tabarjal,Al Qurayyat,NO match,,31.169535,37.620345,,P,,P,,-,-,100,4,-,horizontal,65,26,65,26,√,√,√,√
+139,Well-21-167,167,12/10/2022,Tabarjal,Al Qurayyat,NO match,,31.173994,37.61988,,P,,,,-,-,-,4,-,-,50,20,70,28,√,√,√,√
+140,Well-22-171,171,12/10/2022,Tabarjal,Al Qurayyat,NO match,,31.165616,37.614858,P,,,P,,-,-,100,4,-,horizontal,65,26,45,18,√,√,√,√
+141,Well-23-172,172,12/10/2022,Tabarjal,Al Qurayyat,NO match,,31.163323,37.607679,P,,,P,,-,-,100,4,-,horizontal,15,6,-,-,√,√,√,√
+142,Well-24-79,79,12/10/2022,Tabarjal,Al Qurayyat,NO match,,31.161838,37.618438,,,P,,,-,-,-,-,-,-,-,-,-,-,New,√,√,√
+143,Well-25-1-NW-42,1-NW-42,12/10/2022,Tabarjal,Al Qurayyat,NO match,,31.159498,37.6162,,,P,,,-,-,-,-,-,-,-,-,-,-,New,√,√,√
+144,Well-26-1-NW-114,1-NW-114,12/10/2022,Tabarjal,Al Qurayyat,NO match,,31.15678,37.615816,,,P,,,-,-,-,-,-,-,-,-,-,-,New,√,√,√
+145,Well-27-1-NW-115,1-NW-115,12/10/2022,Tabarjal,Al Qurayyat,NO match,,31.156,37.612392,,,P,,,-,-,-,-,-,-,-,-,-,-,New,√,√,√
+146,Well-28-112,112,12/10/2022,Tabarjal,Al Qurayyat,NO match,,31.155791,37.619661,,,P,,,-,-,-,-,-,-,-,-,-,-,New,√,√,√
+147,Well-29-not lable,not lable,12/10/2022,Tabarjal,Al Qurayyat,NO match,,31.158707,37.622561,,,P,,,-,-,-,-,-,-,-,-,-,-,New,√,√,√
+148,Well-30-164,164,12/10/2022,Tabarjal,Al Qurayyat,NO match,,31.154809,37.628264,P,,,P,,-,-,80,3,-,horizontal,150,59,100,39,√,√,√,√
+149,Well-31-not lable,not lable,12/10/2022,Tabarjal,Al Qurayyat,NO match,,31.155223,37.624655,,,P,,,-,-,-,-,-,-,-,-,-,-,New,√,√,√
+150,Well-1-7 (1),7,12/11/2022,Tabarjal,Tabarjal,MATCH,,30.306072,38.310193,P,,,,P,Endress + Hauser,,200,8,very low,horizontal,200,79,220,87,√,√,√,√
+151,Well-2-8 (1),8,12/11/2022,Tabarjal,Tabarjal,MATCH,,30.293311,38.365522,P,,,,P,Endress + Hauser,170.22,200,8,very low,horizontal,200,79,220,87,√,√,√,√
+152,Well-3-9 (1),9,12/11/2022,Tabarjal,Tabarjal,MATCH,,30.284776,38.40034,P,,,,P,Endress + Hauser,139.07,200,8,very low,horizontal,200,79,220,87,√,√,√,√
+153,Well-4-10 (1),10,12/11/2022,Tabarjal,Tabarjal,MATCH,,30.27392,38.417324,P,,,,P,ABB,-,300,12,very low,horizontal,120,47,200,79,√,√,√,√
+154,Well-5-11 (1),11,12/11/2022,Tabarjal,Tabarjal,MATCH,,30.267257,38.447601,P,,,,P,ABB,81.6,300,12,very low,horizontal,120,47,200,79,√,√,√,√
+155,Well-6-12 (1),12,12/11/2022,Tabarjal,Tabarjal,MATCH,,30.259959,38.478459,P,,,,P,ABB,-,300,12,very low,horizontal,120,47,200,79,√,√,√,√
+156,Well-7-13 (1),13,12/11/2022,Tabarjal,Tabarjal,MATCH,,30.252828,38.50908,P,,,,P,ABB,97.8,300,12,very low,horizontal,120,47,200,79,√,√,√,√
+157,Well-8-4 (2),4,12/11/2022,Tabarjal,Tabarjal,MATCH,,30.288022,38.30748,P,,,,P,Endress + Hauser,-,200,8,-,horizontal,200,79,220,87,√,√,√,√
+158,Well-9-5 (2),5,12/11/2022,Tabarjal,Tabarjal,MATCH,,30.278163,38.349707,P,,,,P,Endress + Hauser,199.55,200,8,very low,horizontal,200,79,220,87,√,√,√,√
+159,Well-10-6 (2),6,12/11/2022,Tabarjal,Tabarjal,MATCH,,30.267188,38.394862,P,,,,P,Endress + Hauser,-,200,8,very low,horizontal,200,79,220,87,√,√,√,√
+160,Well-11-1 (3),1,12/11/2022,Tabarjal,Tabarjal,MATCH,,30.27118,38.299355,P,,,,P,Endress + Hauser,-,200,8,very low,horizontal,200,79,220,87,√,√,√,√
+161,Well-12-2 (3),2,12/11/2022,Tabarjal,Tabarjal,MATCH,,30.260777,38.344429,P,,,,P,Endress + Hauser,-,200,8,very low,horizontal,200,79,220,87,√,√,√,√
+162,Well-13-3 (3),3,12/11/2022,Tabarjal,Tabarjal,MATCH,,30.250151,38.389652,P,,,,P,Endress + Hauser,-,200,8,very low,horizontal,200,79,220,87,√,√,√,√
+163,Well-14-18 (3),18,12/11/2022,Tabarjal,Tabarjal,MATCH,,30.238458,38.436548,P,,,,P,ABB,182,300,12,very low,horizontal,120,47,200,79,√,√,√,√
+164,Well-15-17 (3),17,12/11/2022,Tabarjal,Tabarjal,MATCH,,30.237393,38.45008,P,,,,P,ABB,201.3,300,12,very low,horizontal,120,47,200,79,√,√,√,√
+165,Well-16-16 (3),16,12/11/2022,Tabarjal,Tabarjal,MATCH,,30.234807,38.470118,P,,,,P,ABB,208.3,300,12,very low,horizontal,120,47,200,79,√,√,√,√
+166,Well-17-15 (3),15,12/11/2022,Tabarjal,Tabarjal,MATCH,,30.232879,38.48903,P,,,,P,ABB,-,300,12,very low,horizontal,120,47,200,79,√,√,√,√
+167,Well-18-14 (3),14,12/11/2022,Tabarjal,Tabarjal,MATCH,,30.227106,38.500773,,P,,,P,ABB,-,300,12,-,horizontal,120,47,200,79,√,√,√,√
+168,Well-19-3Ext. (4),3Ext,12/11/2022,Tabarjal,Tabarjal,MATCH,,30.213709,38.5002,P,,,,P,Endress + Hauser,172.25,200,8,very low,horizontal,100,39,320,126,√,√,√,√
+169,Well-20-6Ext. (4),6Ext,12/11/2022,Tabarjal,Tabarjal,MATCH,,30.204219,38.532759,P,,,,P,Endress + Hauser,,200,8,-,horizontal,100,39,320,126,√,√,√,√
+170,Well-21-JU-2018-11 (4),JU-2018-11 ,12/11/2022,Tabarjal,Tabarjal,MATCH,,30.199143,38.562274,,,P,,,-,-,-,-,-,-,-,-,-,-,New,√,√,√
+171,Well-22-JU-2018-14 (4),JU-2018-14,12/11/2022,Tabarjal,Tabarjal,MATCH,,30.193667,38.592166,,,P,,,-,-,-,-,-,-,-,-,-,-,New,√,√,√
+172,Well-23-2Ext. (5),2Ext,12/11/2022,Tabarjal,Tabarjal,MATCH,,30.17463,38.48808,P,,,,P,Endress + Hauser,-,200,8,very low,horizontal,100,39,320,126,√,√,√,√
+173,Well-24-5Ext. (5),5Ext,12/11/2022,Tabarjal,Tabarjal,MATCH,,30.16712,38.519054,P,,,,P,Endress + Hauser,135.7,200,8,very low,horizontal,100,39,320,126,√,√,√,√
+174,Well-25-JU-2018-10 (5),JU-2018-10,12/11/2022,Tabarjal,Tabarjal,MATCH,,30.160192,38.550065,,,P,,,-,-,-,-,-,-,-,-,-,-,New,√,√,√
+175,Well-26-JU-2018-13 (5),JU-2018-13,12/11/2022,Tabarjal,Tabarjal,MATCH,,30.154566,38.58115,,,P,,,-,-,-,-,-,-,-,-,-,-,New,√,√,√
+176,Well-27-1Ext. (6),1Ext,12/11/2022,Tabarjal,Tabarjal,MATCH,,30.135321,38.475819,P,,,,P,Endress + Hauser,155.5,200,8,very low,horizontal,100,39,320,126,√,√,√,√
+177,Well-28-JU-2018-12 (6),JU-2018-12,12/11/2022,Tabarjal,Tabarjal,MATCH,,30.12832,38.507509,,,P,,,-,-,-,-,-,-,-,-,-,-,New,√,√,√
+178,Well-29-JU-2018-09 (6),JU-2018-09,12/11/2022,Tabarjal,Tabarjal,MATCH,,30.120937,38.538657,,,P,,,-,-,-,-,-,-,-,-,-,-,New,√,√,√
+179,Well-30-JU-2018-08 (6),JU-2018-08,12/11/2022,Tabarjal,Tabarjal,MATCH,,30.113817,38.569507,,,P,,,-,-,-,-,-,-,-,-,-,-,New,√,√,√
+180,Well-31-JF-TA-015,JF-TA-015,12/11/2022,Tabarjal,Tabarjal,MATCH,,30.433447,38.406974,,,P,,,-,-,-,-,-,-,-,-,-,-,Cancelled,√,√,√
+181,Well-32- Al Nabk Station- old,Al Nabk Station- old,12/11/2022,Tabarjal,Tabarjal,MATCH,,30.29769,38.700842,P,,,P,,-,108,100,4,very low,horizontal,100,39,100,39,√,√,√,√
+182,Well-33-Al Nabk Station- new,Al Nabk Station- new,12/11/2022,Tabarjal,Tabarjal,MATCH,,30.283505,38.701784,P,,,P,,-,150,150,6,very low,horizontal,90,35,0,0,√,√,√,√
+183,Well-34-JF-TA-002,JF-TA-002,12/11/2022,Tabarjal,Tabarjal,MATCH,,30.287788,38.731474,,,P,,,-,-,-,-,-,-,-,-,-,-,Cancelled,√,√,√
+184,well-35-Al Shaqiq station,Al Shaqiq station,12/11/2022,Tabarjal,Dawmet Al jandal,NO match,,29.301413,39.913053,P,,,P,,-,90,150,6,very low,horizontal,0,0,100,39,√,√,√,√
