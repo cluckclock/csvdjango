@@ -5,7 +5,7 @@ import json
   
 # Create your views here.
 def Table(request):
-    df = pd.read_csv("foo.csv")
+    df = pd.read_csv("field_data.csv")
   
     # parsing the DataFrame in json format.
     json_records = df.reset_index().to_json(orient ='records')
